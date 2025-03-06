@@ -46,7 +46,7 @@ if(isset($_GET['logout'])){
 			$fetch = mysqli_fetch_assoc($result);
 		}
 		if($fetch['image']==''){
-			echo '<img src="1.png">';
+			echo '<img src="images/1.png">';
 		}
 		else{
 			echo '<img src="uploaded_img/'.$fetch['image'].'">';

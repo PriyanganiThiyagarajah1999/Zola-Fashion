@@ -39,10 +39,10 @@ CREATE TABLE `item` (
 --
 
 INSERT INTO `item` (`id`, `item_name`, `price`, `item_image`) VALUES
-(1, 'Slim-fit Jeans', '2500.00', '31.png'),
-(2, 'Skinny Jeans', '2800.00', '21.jpg'),
-(3, 'Bell Jeans', '1800.00', '25.jpg'),
-(4, 'Distressed Jeans', '3000.00', '24.webp');
+(1, 'Slim-fit Jeans', '2500.00', 'images/31.png'),
+(2, 'Skinny Jeans', '2800.00', 'images/21.jpg'),
+(3, 'Bell Jeans', '1800.00', 'images/25.jpg'),
+(4, 'Distressed Jeans', '3000.00', 'images/24.webp');
 
 -- --------------------------------------------------------
 
@@ -64,8 +64,8 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `name`, `email`, `password`, `user_type`, `image`) VALUES
-(1, 'Priyangani ', 'priyapriyangani1999@gmail.com', '0b1c8bc395a9588a79cd3c191c22a6b4', 'Admin', '1.jpg'),
-(2, 'Darsika', 'darsika@gmail.com', 'de194c0c877761dfa74b612dc42c9d6b', 'User', '1.jpg');
+(1, 'Priyangani ', 'priyapriyangani1999@gmail.com', '0b1c8bc395a9588a79cd3c191c22a6b4', 'Admin', 'images/1.jpg'),
+(2, 'Darsika', 'darsika@gmail.com', 'de194c0c877761dfa74b612dc42c9d6b', 'User', 'images/1.jpg');
 
 --
 -- Indexes for dumped tables

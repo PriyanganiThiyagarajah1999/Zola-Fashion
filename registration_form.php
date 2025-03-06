@@ -76,7 +76,7 @@ if(isset($_POST['submit'])){
 	<form action="" method="post" enctype="multipart/form-data">
 	<?php	
 		if($fetch['image']==''){
-				echo '<img src="1.png">';
+				echo '<img src="images/1.png">';
 		}
 		else{
 			echo '<img src="uploaded_img/'.$fetch['image'].'">';

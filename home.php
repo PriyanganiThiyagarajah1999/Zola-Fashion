@@ -5,7 +5,7 @@
 </head>
 <style>
 body{
-	background-image: url(4.jpg);
+	background-image: url(images/4.jpg);
 }
 </style>
 <body>
@@ -34,13 +34,13 @@ body{
 		</ul>
 	</div>
 	<div class="image1">
-		<img src="20.webp">
+		<img src="images/20.webp">
 	</div>
 	<div class="image">
-		<img src="11.jpg">
-		<img src="5.jpg">
-		<img src="2.jpg">
-		<img src="7.jpg">
+		<img src="images/11.jpg">
+		<img src="images/5.jpg">
+		<img src="images/2.jpg">
+		<img src="images/7.jpg">
 		<div class="text-block">
 		<span>Ladies Modern Jeans</span>
 		<p class="par"><b>Choose Your Favorite One</b></p>

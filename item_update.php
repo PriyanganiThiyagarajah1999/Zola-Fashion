@@ -61,7 +61,7 @@ if(isset($_POST['update_product'])){
 	<div class="d1">
 <?php	
 	if($fetch['item_image']==''){
-			echo '<img src="1.png">';
+			echo '<img src="images/1.png">';
 	}
 	else{
 		echo '<img src="uploaded_img/'.$fetch['item_image'].'">';

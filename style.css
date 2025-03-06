@@ -141,7 +141,7 @@
 	margin:auto;
 	color:black;
 	position:relative;
-	background:url(18.jpg);
+	background:url(images/18.jpg);
 	width: 79.5%;
 	height: 30%;
 	align-items: center;
@@ -189,7 +189,7 @@
 	align-items: center;
 	justify-content: center;
 	padding: 10px 10px 10px 10px;
-	background: url(4.jpg);
+	background: url(images/4.jpg);
 }
 .main form{
 	padding: 20px 0;
@@ -248,7 +248,7 @@
 	justify-content: center;
 	padding: 10px;
 	padding-bottom: 10px;
-	background: url(111.jpg);
+	background: url(111);
 }
 .profile{
 	padding: 25px;
@@ -316,7 +316,7 @@
 	justify-content: center;
 	padding: 10px;
 	padding-bottom: 10px;
-	background:url(4.jpg);
+	background:url(images/4.jpg);
 }
 .update form{
 	padding: 10px;
@@ -355,7 +355,7 @@
 .join{
 	padding:50px;
 	margin-bottom:100px;
-	background: url(111.jpg);
+	background: url(images/111.jpg);
 	justify-content: space-between;
 	display: flex;
 }
@@ -430,7 +430,7 @@
 	align-items: center;
 	justify-content: space-between;
 	padding: 10px 10px 10px 10px;
-	background: url(111.jpg);
+	background: url(images/111.jpg);
 }
 .main-con form{
 	padding: 20px 0;
